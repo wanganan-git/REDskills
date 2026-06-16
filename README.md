@@ -11,3 +11,4 @@ My collection of Claude Code custom skills.
 | [decision-skill](./decision-skill/) | Decision Skill |
 | [five-learning-methods](./five-learning-methods/) | Five Learning Methods |
 | [prompt-engineering-assistant](./prompt-engineering-assistant/) | Prompt Engineering Assistant |
+| [problem-solving-innovation](./problem-solving-innovation/) | Problem Solving & Innovation |
